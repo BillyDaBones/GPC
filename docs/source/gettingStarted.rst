@@ -9,8 +9,8 @@ Initial Basic Setup (Hardware)
 Verify you have the following devices powered on and displaying it's respective screens:
 
    .. |Church_Layout| image:: docs/source/assets/images/church_01.png
-   :width: 800
-   :alt: Alternative text
+      :width: 800
+      :alt: Alternative text
 
 Diagram for building and it's hardware locations:
 
