@@ -8,24 +8,29 @@ Initial Basic Setup (Hardware)
 
 Verify you have the following devices powered on and displaying it's respective screens:
 
-.. |Church Diagram| image:: assets/images/church_01.png
-  :width: 800
-  :alt: Alternative text
+   .. |Church_Layout| image:: docs/source/assets/images/church_01.png
+   :width: 800
+   :alt: Alternative text
+
+Diagram for building and it's hardware locations:
+
+|Church_Layout|
+
 
 **Section A**
 
-* Laptop.
-* Monitor.
-* Sound System.
+* Laptop
+* Monitor
+* Sound System
 
 **Section B**
 
-* Projector Screen.
-* Projector (Remote).
+* Projector Screen
+* Projector (Remote)
 
 **Section C**
 
-* Foyer TV (Remote).
+* Foyer TV (Remote)
 
 
 Initial Basic Setup (Software)
