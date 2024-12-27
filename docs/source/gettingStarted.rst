@@ -1,13 +1,31 @@
-Usage
-=====
+Getting Started
+===============
 
 .. _initial:
 
 Initial Basic Setup (Hardware)
 ------------------------------
 
-Verify you have the following devices powered on
+Verify you have the following devices powered on and displaying it's respective screens:
 
+.. |Church Diagram| image:: assets/images/church_01.png
+  :width: 800
+  :alt: Alternative text
+
+**Section A**
+
+* Laptop.
+* Monitor.
+* Sound System.
+
+**Section B**
+
+* Projector Screen.
+* Projector (Remote).
+
+**Section C**
+
+* Foyer TV (Remote).
 
 
 Initial Basic Setup (Software)
