@@ -1,16 +1,18 @@
 Usage
 =====
 
-.. _installation:
+.. _initial:
 
-Installation
-------------
+Initial Basic Setup (Hardware)
+------------------------------
 
-To use Lumache, first install it using pip:
+Verify you have the following devices powered on
 
-.. code-block:: console
 
-   (.venv) $ pip install lumache
+
+Initial Basic Setup (Software)
+------------------------------
+
 
 Creating recipes
 ----------------

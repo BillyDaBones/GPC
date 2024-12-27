@@ -2,14 +2,14 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'GPC'
+copyright = '2024, Ezra'
+author = 'Ezra'
 
 release = '0.1'
 version = '0.1.0'
 
-# -- General configuration
+# -- General configuration 
 
 extensions = [
     'sphinx.ext.duration',

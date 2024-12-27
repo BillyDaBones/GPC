@@ -1,10 +1,12 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to Grace Presbyterian Church's Tech
+===========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**GPC** (Grace Presbyterian Church) is a reformed church based in Redding, California. 
+Committed to the Word of God and the Faith of the Reformation. This site contains all 
+information related to the tech behind the scenes for reference and instruction of others.
+
+`GPC Redding website <https://domain.invalid/>`_
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -12,11 +14,14 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
-
+   contact Ezra Harris for additional help, and any mistakes written in this document
+   gpc@ezraharris.com
+ 
+ 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   gettingStarted
+   wiring
