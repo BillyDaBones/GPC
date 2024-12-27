@@ -25,3 +25,5 @@ Contents
 
    gettingStarted
    wiring
+   software
+   
