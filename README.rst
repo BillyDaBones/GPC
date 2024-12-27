@@ -1,9 +1,11 @@
-Template for the Read the Docs tutorial
-=======================================
+Grace Presbyterian Church of Redding CA's Documentation
+=======================================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This Github project's goal is to contain every section 
+of info about the technology at GPC. And the whole workflow, 
+refer to the list below for quick links:
 
-Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Read the docs below:
+
+https://gpc.ezraharris.com
