@@ -59,7 +59,8 @@ Located in section **A**:
 #. Press power button on if laptop is blank and or no displays are engaged.
 #. Turn on monitor power
 #. Remote for projector is located in section **B** inside the pulpit. To use: point remote towards projector from inside pulpit, then press **"power on"**. Wait ~2 minutes for screen to display.
-   * next to pulpit is the white screen itself. Use ⬇⬆ controls on adjecent wall to lower screen.
+
+Next to pulpit is the white screen itself. Use ⬇⬆ controls on adjecent wall to lower screen.
 
 .. note::
    There is a power switch located behind the projector screen which may need to be flipped to enable power for projector.
@@ -76,24 +77,5 @@ Located in section **C**:
 Initial Basic Setup (Software)
 ------------------------------
 
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+After initial boot up of the laptop and 
 
