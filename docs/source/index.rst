@@ -7,10 +7,6 @@ information related to the tech behind the scenes for reference and instruction 
 
 `GPC Redding website <https://www.gpcredding.org/about-us-2/>`_
 
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
    This project is under active development.
@@ -26,4 +22,4 @@ Contents
    gettingStarted
    wiring
    software
-   
+

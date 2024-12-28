@@ -35,11 +35,6 @@ OBS Studio is the live streaming program used for the GPC Live Streams, and the 
 
 **Sound**
 
-
-**
-
-
-
 FreeShow
 --------
 
