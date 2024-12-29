@@ -3,8 +3,11 @@ Getting Started
 
 .. _initial:
 
-Initial Basic Setup (Hardware)
-------------------------------
+Basic Setup (Hardware)
+----------------------
+
+.. tip::
+   Some items on this page have a built in check box next to it. Feel free to use this as you setup for Church.
 
 Verify you have the following devices powered on and displaying it's respective screens:
 
@@ -12,15 +15,15 @@ Verify you have the following devices powered on and displaying it's respective 
       :width: 800
       :alt: Diagram for building and it's hardware locations
    
-   .. |Power_Layout_01| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/e261cbf99040770bc6946530473a5c204f82623e/docs/source/assets/images/power_01.png
+   .. |Power_Layout_01| image:: ../../source/assets/images/power_01.png
       :width: 400
       :alt: Diagram of power locations 01
 
-   .. |Power_Layout_02| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/e261cbf99040770bc6946530473a5c204f82623e/docs/source/assets/images/power_02.png
+   .. |Power_Layout_02| image:: ../../source/assets/images/power_02.png
       :width: 400
       :alt: Diagram of power locations 02
 
-   .. |Power_Layout_03| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/e261cbf99040770bc6946530473a5c204f82623e/docs/source/assets/images/power_03.png
+   .. |Power_Layout_03| image:: ../../source/assets/images/power_03.png
       :width: 400
       :alt: Diagram of power locations 03
 
@@ -30,18 +33,33 @@ Verify you have the following devices powered on and displaying it's respective 
 
 **Section A**
 
-* Laptop
-* Monitor
-* Sound System
+.. task-list::
+   :name: task_list_A
+   :custom:
+   :clickable:
+
+   * [ ] Laptop
+   * [ ] Monitor
+   * [ ] Sound System
 
 **Section B**
 
-* Projector Screen
-* Projector (Remote)
+.. task-list::
+   :name: task_list_B
+   :custom:
+   :clickable:
+
+   * [ ] Projector Screen
+   * [ ] Projector (Use Remote)
 
 **Section C**
 
-* Foyer TV (Remote)
+.. task-list::
+   :name: task_list_C
+   :custom:
+   :clickable:
+   
+   * [ ] Foyer TV (Remote)
 
 **Power Locations**
 
@@ -50,11 +68,15 @@ Verify you have the following devices powered on and displaying it's respective 
 Located in section **A**:
 
 #. Push in for main power to sound system.
-#. Push up (+48 v) to engage power for pulpit mic, and output for live audio.
+#. Push up (+48 v **Phantom Power**) to engage power for pulpit mic, and output for live audio.
+
+.. warning::
+   Do not engage Phantom Power when pianist is wearing in ear monitor. When Phantom Power is engaged for the first time
+   an audible "pop" is peaked at high volume through monitors.
 
 |Power_Layout_02|
 
-Located in section **A**:
+Located in section **A** & **B**:
 
 #. Press power button on if laptop is blank and or no displays are engaged.
 #. Turn on monitor power
@@ -69,13 +91,11 @@ Next to pulpit is the white screen itself. Use ⬇⬆ controls on adjecent wall 
 
 Located in section **C**:
 
-* Use remote found on bookshelf to turn on Foyer TV.
+* Use remote found on bookshelf to turn on Foyer TV, or hold the button below the **SAMSUNG** logo
 
 
+Basic Setup (Software)
+----------------------
 
-
-Initial Basic Setup (Software)
-------------------------------
-
-After initial boot up of the laptop and 
+After initial boot up of the laptop and steps are followed above.
 

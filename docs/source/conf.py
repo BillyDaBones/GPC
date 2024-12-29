@@ -6,8 +6,8 @@ project = 'GPC'
 copyright = '2024, Ezra'
 author = 'Ezra'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0.1'
+version = '0.0.1'
 
 # -- General configuration 
 
