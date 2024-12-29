@@ -7,19 +7,19 @@ This page contains all relevant info to each program used on the main laptop. It
 as there are better documentation on specifics on their respective sites.
 
     .. |OBS| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/software/OBS.png
-        :width: 200
+        :width: 100
         :alt: OBS Logo
 
     .. |FreeShow| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/software/FreeShow.png
-        :width: 200
+        :width: 50
         :alt: FreeShow Logo
 
-    .. |StreamDeck| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/software/StreamDeck01.png
-        :width: 200
+    .. |StreamDeck| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/software/StreamDeck_01.png
+        :width: 50
         :alt: StreamDeck Logo
 
-    .. |Companion| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/software/StreamDeck02.png
-        :width: 200
+    .. |Companion| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/software/StreamDeck_02.png
+        :width: 50
         :alt: Companion Logo
 
 
