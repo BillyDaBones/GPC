@@ -6,19 +6,19 @@ Software
 This page contains all relevant info to each program used on the main laptop. It will not be fully comprehensive on how to use the software
 as there are better documentation on specifics on their respective sites.
 
-    .. |OBS| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/e261cbf99040770bc6946530473a5c204f82623e/docs/source/assets/images/software/OBS.png
+    .. |OBS| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/software/OBS.png
         :width: 200
         :alt: OBS Logo
 
-    .. |FreeShow| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/e261cbf99040770bc6946530473a5c204f82623e/docs/source/assets/images/software/FreeShow.png
+    .. |FreeShow| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/software/FreeShow.png
         :width: 200
         :alt: FreeShow Logo
 
-    .. |StreamDeck| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/e261cbf99040770bc6946530473a5c204f82623e/docs/source/assets/images/software/StreamDeck01.png
+    .. |StreamDeck| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/software/StreamDeck01.png
         :width: 200
         :alt: StreamDeck Logo
 
-    .. |Companion| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/e261cbf99040770bc6946530473a5c204f82623e/docs/source/assets/images/software/StreamDeck02.png
+    .. |Companion| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/software/StreamDeck02.png
         :width: 200
         :alt: Companion Logo
 

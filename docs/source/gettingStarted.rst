@@ -11,19 +11,19 @@ Basic Setup (Hardware)
 
 Verify you have the following devices powered on and displaying it's respective screens:
 
-   .. |Church_Layout| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/e261cbf99040770bc6946530473a5c204f82623e/docs/source/assets/images/church_01.png
+   .. |Church_Layout| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/gettingStarted/church_01.png
       :width: 800
       :alt: Diagram for building and it's hardware locations
    
-   .. |Power_Layout_01| image:: ../../source/assets/images/power_01.png
+   .. |Power_Layout_01| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/gettingStarted/power_01.png
       :width: 400
       :alt: Diagram of power locations 01
 
-   .. |Power_Layout_02| image:: ../../source/assets/images/power_02.png
+   .. |Power_Layout_02| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/gettingStarted/power_02.png
       :width: 400
       :alt: Diagram of power locations 02
 
-   .. |Power_Layout_03| image:: ../../source/assets/images/power_03.png
+   .. |Power_Layout_03| image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/gettingStarted/power_03.png
       :width: 400
       :alt: Diagram of power locations 03
 
