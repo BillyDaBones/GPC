@@ -75,6 +75,16 @@ YouTube channel. You can see all our active streaming destinations in the `Sermo
 If you'd like to see how this works, `check out SermonAudio's demonstration video 
 <https://www.sermonaudio.com/player/sermon/121211518553745/>`_ of their restreaming feature.
 
+Scenes
+~~~~~~
+
+**Scenes** in OBS are different views in which the Live Stream can see the content.
+A couple different scenes we have setup in OBS are
+
+* **Slides**, which displays the slideshow on the livestream, and the webcam in the corner. Best used during music.
+* **Wide**, which shows only the camera video and is the most used scene the stream will show.
+* **Zoomed Pulpit**, which crops in the camera, intended to be used when zooming in the camera. See :ref:`operations_camera` for more about using the camera.
+
 
 
 **FreeShow**

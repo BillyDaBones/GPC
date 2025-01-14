@@ -20,6 +20,8 @@ Contents
 .. toctree::
 
    gettingStarted
+   operating
    wiring
    software
+
 
