@@ -99,3 +99,8 @@ Basic Setup (Software)
 
 After initial boot up of the laptop and steps are followed above.
 
+Slideshow setup
+~~~~~~~~~~~~~~~
+
+.. _initial_freeshow:
+

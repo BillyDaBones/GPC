@@ -105,3 +105,7 @@ A couple different scenes we have setup in OBS are
 
 `Companion (BitFocus) Documentation <https://bitfocus.io/companion/support/>`_
 
+.. _software_streamdeck:
+
+blank for now
+
