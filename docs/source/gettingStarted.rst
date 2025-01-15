@@ -99,7 +99,7 @@ Basic Setup (Software)
 
 .. note::
    I'll be reffering to basic Windows elements like the "start" button and "taskbar". Please refer to this for guidence.
-      .. image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/gettingStarted/windows10_taskbar.png
+      .. image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/gettingStarted/windows10_taskbar.jpg
          :width: 800
          :alt: windows 10 taskbar
 
