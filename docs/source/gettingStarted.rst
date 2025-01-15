@@ -97,10 +97,29 @@ Located in section **C**:
 Basic Setup (Software)
 ----------------------
 
-After initial boot up of the laptop and steps are followed above.
+.. note::
+   I'll be reffering to basic Windows elements like the "start" button and "taskbar". Please refer to this for guidence.
+      .. image:: https://raw.githubusercontent.com/BillyDaBones/GPC/v0.0.1/docs/source/assets/images/gettingStarted/windows10_taskbar.png
+         :width: 800
+         :alt: windows 10 taskbar
+
+After initial boot up of the laptop and steps are followed above, confirm the laptop has the following applications running at the bottom taskbar:
+
+* OBS Studio
+* FreeShow 
+
+If none of the above programs aren't visible in the taskbar:
+
+#. Press the Windows key on your keyboard, or hit the start button on the taskbar.
+#. Type the name of the missing program (like "OBS Studio" or "FreeShow")
+#. Click the program when it appears in the search results to launch it.
+
+
+
+.. _initial_freeshow:
 
 Slideshow setup
 ~~~~~~~~~~~~~~~
 
-.. _initial_freeshow:
+blank for now
 

@@ -1,7 +1,7 @@
+.. _software:
+
 Software
 ========
-
-.. _software:
 
 This page contains all relevant info to each program used on the main laptop. It will not be fully comprehensive on how to use the software
 as there are better documentation on specifics on their respective sites.
@@ -94,6 +94,7 @@ A couple different scenes we have setup in OBS are
 
 `FreeShow Documentation <https://freeshow.app/docs/introduction/>`_
 
+.. _software_streamdeck:
 
 **Stream Deck (& Companion)**
 -----------------------------
@@ -104,8 +105,6 @@ A couple different scenes we have setup in OBS are
 `StreamDeck Quick Start <https://help.elgato.com/hc/en-us/articles/360028241291-Elgato-Stream-Deck-Quick-Start-Guide/>`_
 
 `Companion (BitFocus) Documentation <https://bitfocus.io/companion/support/>`_
-
-.. _software_streamdeck:
 
 blank for now
 
